@@ -1,0 +1,27 @@
+[
+  {
+  "orderType" : "limit",
+  "price" : 20000,
+  "currencyPair" : "BTC/USDT",
+  "amount" : 0.5
+  },
+  {
+    "orderType" : "limit",
+    "price" : 40000,
+    "currencyPair" : "BTC/USDT",
+    "amount" : 0.5
+  },
+  {
+    "orderType" : "limit",
+    "price" : 30000,
+    "currencyPair" : "BTC/USDT",
+    "amount" : 0.5
+  },
+  {
+    "Name" : "Name1",
+    "Age" : 10
+  }
+]
+
+
+
